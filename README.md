@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Seyed Hesamaldin Alavi</h1> <h3 align="center">Multitalented Coder | From Web Apps to Data Analytics</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=hesam2801&label=Profile%20views&color=0e75b6&style=flat" alt="hesam2801" /> </p>
-👨‍💻 About me
 I’m Hesam, a software developer and M.Sc. Media Engineering student at TU Ilmenau, focused on building useful, reliable software with Python and JavaScript.
 I like turning ideas into real applications, from automation scripts and web scrapers to full‑stack tools and data‑driven dashboards.
 
